@@ -1,0 +1,4 @@
+name: TimeLeap
+version: 1.0.0
+main: net.atlantis.timeleap.TimeLeap
+api-version: 1.13
